@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022-main\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\desktop\\marynsino-vs2022-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\desktop\\marynsino-vs2022-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\desktop\\marynsino-vs2022-main\\views\\shared\\_layoutgerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:views\\shared\\_layoutgerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:34:22.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:30:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutGerenciamento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022-main\\Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Marynsino-vs2022-main\\Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAD0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:24:00.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

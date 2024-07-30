@@ -74,6 +74,7 @@ C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino251
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino2513.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino2513.RazorAssemblyInfo.cache
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino2513.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino2513.sourcelink.json
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\staticwebassets\msbuild.Marynsino2513.Microsoft.AspNetCore.StaticWebAssets.props
@@ -82,6 +83,8 @@ C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\staticwebass
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Marynsino2513.props
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutCadastro.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutGerenciamento.cshtml.rz.scp.css
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\scopedcss\bundle\Marynsino2513.styles.css
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\scopedcss\projectbundle\Marynsino2513.bundle.scp.css
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino2513.dll
@@ -89,5 +92,3 @@ C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\refint\Maryn
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino2513.pdb
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\Marynsino2513.genruntimeconfig.cache
 C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\ref\Marynsino2513.dll
-C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutGerenciamento.cshtml.rz.scp.css
-C:\Users\Aluno Noite\Desktop\Marynsino-vs2022-main\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutCadastro.cshtml.rz.scp.css
